@@ -18,3 +18,14 @@
 14、[61-序列化二叉树](https://github.com/shellmay/JZ-offer/blob/master/offer-61-%E4%BA%8C%E5%8F%89%E6%A0%91%E5%BA%8F%E5%88%97%E5%8C%96%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.py)  
 15、[62-二叉搜索树的第k个结点](https://github.com/shellmay/JZ-offer/blob/master/offer-62-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%AC%ACK%E5%B0%8F%E7%9A%84%E6%95%B0.py)  
 
+
+链表
+=====
+1、[3-从头到尾打印链表](https://github.com/shellmay/JZ-offer/blob/master/offer-3-%E4%BB%8E%E6%9C%AA%E5%88%B0%E5%A4%B4%E8%BF%94%E5%9B%9E%E9%93%BE%E8%A1%A8.py)  
+2、[14-链表中倒数第k个结点](https://github.com/shellmay/JZ-offer/blob/master/offer-14-%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%9A%84%E7%AC%ACK%E4%B8%AA%E8%8A%82%E7%82%B9.py)  
+3、[15-反转链表](https://github.com/shellmay/JZ-offer/blob/master/offer-15-%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.py)  
+4、[16-合并两个顺序链表](https://github.com/shellmay/JZ-offer/blob/master/offer-16-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8.py)  
+5、[25-复杂链表的复制](https://github.com/shellmay/JZ-offer/blob/master/offer-25-%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6.py)  
+6、[36-两个链表的第一个公共结点](https://github.com/shellmay/JZ-offer/blob/master/offer-36-%E4%B8%A4%E4%B8%AA%E9%93%BE%E8%A1%A8%E7%9A%84%E5%85%AC%E5%85%B1%E8%8A%82%E7%82%B9.py)  
+7、[55-链表中环的入口结点](https://github.com/shellmay/JZ-offer/blob/master/offer-55-%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E8%8A%82%E7%82%B9.py)  
+8、[56-删除链表中的重复结点](https://github.com/shellmay/JZ-offer/blob/master/offer-56-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E9%87%8D%E5%A4%8D%E7%9A%84%E8%8A%82%E7%82%B9.py)  
